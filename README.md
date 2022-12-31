@@ -1,1 +1,1 @@
-# build_a_neural_network_with_python
+After reading the book Make Your Own Neural Network, I used what I learned from the book to build a neural network from scratch using python. I used the neural network I created to recognize handwritten numbers and achieved an accuracy of 97.48%.
